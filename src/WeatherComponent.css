@@ -1,0 +1,46 @@
+.body{
+    margin: auto;
+    width:60%;
+}
+
+
+@media(min-width:20rem){
+    .place{
+        display: grid;
+        grid-template-rows: auto auto auto;
+        margin: 0.5rem;
+        background-color: rgb(218, 217, 203);
+        border-radius:0.2 rem;
+    }
+    .place > div{
+        margin: 10px;
+    }
+    .opt{
+        width:20rem;
+        height:1.7rem;
+        border-radius:0.2rem;
+        margin:1rem;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+    .country{
+        padding:1rem 1rem 1rem 1rem;
+        background-color: antiquewhite;
+    }
+    .state{
+        padding:1rem 1rem 1rem 1rem;
+        background-color: rgb(235, 244, 236);
+    }
+    .city{
+        padding:1rem 1rem 1rem 1rem;
+        background-color: beige;
+    }
+    .weather{
+        font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        margin:auto;
+        width:70;
+        padding:1.5rem;
+    }
+    .weather #tit{
+        font-size: 1.5 rem;
+    }
+}
