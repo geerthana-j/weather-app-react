@@ -1,0 +1,4 @@
+com\assessment\weatherInfo\WeatherInfoController.class
+com\assessment\weatherInfo\WeatherInfoService.class
+com\assessment\weatherInfo\WeatherInfoApplication.class
+com\assessment\weatherInfo\config\CorsConfig.class
