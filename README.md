@@ -27,13 +27,13 @@
 
 This is the final Result of the application.
 
--when a city is not selected
+- when a city is not selected
 ![nocities](https://github.com/geerthana-j/weather-app-react/blob/main/nocities.jpg)
 
--when a city is selected
+- when a city is selected
 ![WeatherInfoApp](https://github.com/geerthana-j/weather-app-react/blob/main/weatherInfoApp.jpg)
 
--when a city is selected but weather data not found for it
+- when a city is selected but weather data not found for it
 ![noweatherdata](https://github.com/geerthana-j/weather-app-react/blob/main/noweatherdata.jpg)
 
 
