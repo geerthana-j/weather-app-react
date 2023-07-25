@@ -23,5 +23,9 @@
 - The URL to this application is https://master.d24lz07z22nyev.amplifyapp.com/
   - An API hs been used to fetch the country, state and city.
 
-## Result
+## `Result`
+
+This is the final Result of the application.
+![WeatherInfoApp](https://github.com/geerthana-j/weather-app-react/blob/main/weatherInfoApp.jpg)
+
 
